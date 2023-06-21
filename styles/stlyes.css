@@ -1,0 +1,97 @@
+#top{
+    text-decoration:underline;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(165, 165, 233);
+}
+
+p{
+    font-weight:lighter;
+    font-size: 20px;
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+}
+
+body{
+    background-color:rgb(84, 125, 125);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px
+}
+
+.products{
+    float: left;
+    background-color:rgb(168, 168, 218);
+    margin: 10px;
+    border-radius: 25px;
+    padding: 15px;
+    overflow: hidden;
+
+}
+
+.pictures{
+    float: left;
+    background-color:rgb(158, 183, 116);
+    margin: 10px;
+    border-radius: 25px;
+    padding: 15px;
+    overflow: hidden;
+
+
+}
+
+.emphasizedText{
+    font-weight: bold;
+}
+
+
+
+.bottom{
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+
+
+ul{
+    list-style-position:outside;
+    margin-left: 10px;
+}
+
+ol{
+    list-style-position:outside;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+img{
+    display:block;
+    margin-left: hidden;
+    width: 25%;
+    top: 50px;
+    left: 50px;
+
+}
+
+.footer{
+    text-align: center;
+}
+
+.logo{
+    position:absolute;
+    top: 650px;
+    width: 700px;
+
+   
+}
+
+.selfie{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
